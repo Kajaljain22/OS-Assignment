@@ -1,0 +1,20 @@
+#include<stdio.h>
+#include<conio.h>
+int main()
+{
+    int n,i,t;
+    printf("Enter number of processes");
+    scanf("%d",&n);
+    int at[n],bt[n],p[n];
+    printf("Enter time quantum");
+    scanf("%d",&t);
+    for(i=0;i<n;i++)
+    {
+            printf("Enter burst time");
+            scanf("%d",&at[i]);
+            printf("Enter arrival time");
+            scanf("%d",&bt[i]);
+            printf("Enter priority");
+            scanf("%d",&p[i]);
+    }   
+}
