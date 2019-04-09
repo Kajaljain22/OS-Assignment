@@ -133,8 +133,5 @@ int main()
               break;
        }            
       }
-      int asdf;
-      scanf("%d",&asdf);
-      return 0; 
       getch();
 }
