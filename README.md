@@ -9,3 +9,7 @@ Level 1 : Fixed priority preemptive Scheduling
 Level 2: Round Robin Scheduling
 For a Fixed priority preemptive Scheduling, the Priority 0 is highest priority. If one process P1 is scheduled and running, another process P2 with higher priority comes. The New process (high priority) process P2 preempts currently running process P1 and process P1 continues after P2. 
 Time for which process for Round Robin will strictly execute must be considered in the multiples of 2.
+
+***Like it? [Star this repo](https://github.com/Kajaljain22/OS-Assignment/) :star:***
+
+[![LinkedIn](https://img.shields.io/static/v1.svg?label=connect&message=@kajal-jain&color=bfefff&logo=linkedin&style=flat&logoColor=white&colorA=blue)](https://www.linkedin.com/in/kajal-jain/) 
